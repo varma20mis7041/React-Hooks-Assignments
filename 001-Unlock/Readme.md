@@ -44,5 +44,3 @@ When the Lock button is clicked:
 ## How to Use
 
 Simply click the provided buttons to toggle between the locked and unlocked states of the device. Visual cues and text will guide you through the process.
-
-Feel free to incorporate this information into your app documentation or README.md file.
