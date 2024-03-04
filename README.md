@@ -3,3 +3,4 @@ This Repository contains all my assignments which i have developed while learnin
 | Application Number | Application Name                | Application Url                            |
 | -------------- | ---------------------------| --------------------------------------------------- |
 | 001            | Unlock             | [Link](http://bvreacthooks01.ccbp.tech)               |
+| 002            | Password Validator | [Link](http://bvreacthooks02.ccbp.tech)               |
