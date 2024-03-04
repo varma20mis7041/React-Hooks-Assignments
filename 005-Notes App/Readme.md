@@ -1,6 +1,6 @@
 # Notes App
 ## Concepts Used : useState() 
-#### [webpage url](https://bvreacthooks05.ccbp.tech/)
+#### webpage URL : https://bvreacthooks05.ccbp.tech/
 
 ## Functionality Overview
 
