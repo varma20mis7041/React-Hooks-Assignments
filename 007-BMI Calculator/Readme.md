@@ -1,5 +1,9 @@
 # BMI Calculator Component
 
+### Concepts Used : useState() , useEffect() , Array Dependencies 
+
+#### web page urs : https://bvreacthooks07.ccbp.tech/
+
 ## Functionality Overview
 
 - The `BmiCalculator` component calculates BMI (Body Mass Index) based on user-provided height and weight.
@@ -17,7 +21,7 @@
 
 ## `useEffect()` Functionality
 
-- Three `useEffect` hooks are used to:
+- `useEffect` hooks is used to:
   1. Set the document title dynamically with the calculated BMI.
   2. Store and retrieve height and weight values in/from localStorage.
 
