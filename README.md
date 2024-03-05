@@ -8,3 +8,4 @@ This Repository contains all my assignments which I have developed while learnin
 | 004            | Read More/Less     | [Link](http://bvreacthooks04.ccbp.tech)               |
 | 005            | Notes App          | [Link](http://bvreacthooks05.ccbp.tech)               |
 | 006            | Display Score      | [Link](http://bvreacthooks06.ccbp.tech)               |
+| 007            | BMI Calculator      | [Link](http://bvreacthooks07.ccbp.tech)               |
