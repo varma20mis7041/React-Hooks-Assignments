@@ -1,4 +1,4 @@
-# Leaderboard Component
+# Leaderboard 
 
 #### Concepts Used : useState() , useEffect() 
 
