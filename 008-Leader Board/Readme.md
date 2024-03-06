@@ -22,7 +22,7 @@
 
 ## API Integration
 
-- The component sends a GET request to the [Leaderboard API](https://apis.ccbp.in/leaderboard).
+- The component sends a GET request to the Leaderboard API: https://apis.ccbp.in/leaderboard
 - Authorization is handled with a bearer token.
 
 ## Component Structure
